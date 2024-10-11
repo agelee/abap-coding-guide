@@ -1,6 +1,6 @@
 # ABAP 编程宝典
 
-![ABAP Logo](https://link-to-abap-logo.png)
+![ABAP Logo](https://th.bing.com/th/id/R.a8c7e9e6486e4c374dff470e123603ab?rik=3uwedQunP%2bPTGg&pid=ImgRaw&r=0)
 
 一个全面的 ABAP 编程指南，包含教程、最佳实践、代码示例和参考资料。适合初学者和希望提升 ABAP 技能的经验开发者。
 
